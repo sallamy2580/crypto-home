@@ -19,4 +19,6 @@
 <p align="center">
   <a href="https://distracted-mestorf-55ac92.netlify.app/"><img src="https://iili.io/7d0eHB.png"/></a>
   <a href="https://distracted-mestorf-55ac92.netlify.app/"><img src="https://iili.io/7d0PlR.png"/></a>
+  <h1>please support us🙏🙏❤</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=angelhtml&show_icons=true&theme=radical"/>
 </p>

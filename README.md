@@ -5,7 +5,11 @@
   <a href="https://distracted-mestorf-55ac92.netlify.app/"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a>
   <a href="https://distracted-mestorf-55ac92.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </p>
-crypto home website full responsive<br />
+<h4>crypto home website</h4><br />
+<u>📌full responsive</u><br />
+<u>📌More than 5000 coins</u><br />
+<u>📌Show prices and marketcap instantly</u><br />
+<u>📌and Etc</u><br />
 <h2>📙frame work: Next.js</h2><br />
 <h3>and using tradingview chart & coinpaprika API</h3><br />
 <h1>see this video🎬</h1>

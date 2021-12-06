@@ -1,0 +1,93 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+    font-size: calc(16px + (26 - 14) * ((100vw - 200px) / (1980 - 200)));
+
+background-color: #272727 !important;
+font-family: 'Montserrat', sans-serif !important;
+
+}
+
+.mainbox::-webkit-scrollbar-track {
+  
+
+
+	border-radius: 25px;
+	background-color: transparent;
+}
+
+
+.mainbox::-webkit-scrollbar
+{
+ 
+  border-radius: 25px;
+
+	background-color: transparent;
+}
+
+
+.mainbox::-webkit-scrollbar-thumb
+{
+ 
+  border-radius: 25px;
+	background-color: #fde500;
+	
+	background-image: -webkit-gradient(linear, 0 0, 0 100%,
+	                   color-stop(.5, rgba(255, 255, 255, .2)),
+					   color-stop(.5, transparent), to(transparent));
+}
+/*burger*/
+.css-b1cel9{
+  border-radius: 0px 90px 90px 0px;
+  background-color: #ff652f !important;
+  border-right: #ff652f 6px solid;
+  border-left: 6px groove #ff652f;
+}
+.scroll{
+  direction:rtl; 
+  overflow:auto; 
+  height:50px; 
+  width:50px;}
+
+.scroll div{
+  direction:ltr;
+}
+.chakra-modal__overlay{
+  animation-timing-function: ease !important;
+}
+.sidebar{
+  
+  transition: all 0.5s ease-in;
+  animation-name: side;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both
+}
+@keyframes side{
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0)
+}
+
+to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none
+}
+}
+.css-1h5qok5::placeholder{
+  color: #fde500 !important;
+}
+.twitter:hover{
+  transform: translateY(-0.2rem);
+  transition-duration: 1s;
+}

@@ -1,7 +1,6 @@
 import CoinpaprikaAPI from "@coinpaprika/api-nodejs-client"
 import { useEffect, useState } from "react";
 import Sidebar from "../comp/Sidebar";
-//import Drawer from 'rc-drawer';
 import {Box,Flex,Center,Image,Text,Stack ,HStack ,Drawer,
   DrawerBody,
   DrawerFooter,

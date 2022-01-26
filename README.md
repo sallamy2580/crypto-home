@@ -9,7 +9,7 @@
 <u>📌full responsive</u><br />
 <u>📌More than 5000 coins</u><br />
 <u>📌Show prices and marketcap instantly</u><br />
-<u>📌and Etc</u><br />
+<u>📌and ...</u><br />
 <h2>📙frame work: Next.js</h2><br />
 <h3>and using tradingview chart & coinpaprika API</h3><br />
 <h1>see this video🎬</h1>

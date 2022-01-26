@@ -840,10 +840,7 @@ const onlyWidth = useWindowWidth()
 </Box>
         </DrawerContent>
       </Drawer>
-
-
 }
     </>
   )
 }
-

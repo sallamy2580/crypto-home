@@ -1,4 +1,4 @@
-# crypto-home ©💰💰
+# Crypto Home
 <p align="center">
   <a href="https://youtu.be/eZ0uNQO01fY"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://distracted-mestorf-55ac92.netlify.app/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>

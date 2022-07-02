@@ -1,7 +1,5 @@
 # Crypto Home
 <p align="center">
-
-
   <a href="https://distracted-mestorf-55ac92.netlify.app/"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a>
   <a href="https://distracted-mestorf-55ac92.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </p>
@@ -12,7 +10,6 @@
 <u>📌and ...</u><br />
 <h2>📙frame work: Next.js</h2><br />
 <h3>and using tradingview chart & coinpaprika API</h3><br />
-<h1>see this video🎬</h1>
 <h1>Demo</h1><br />
 <a href="https://distracted-mestorf-55ac92.netlify.app/">https://distracted-mestorf-55ac92.netlify.app/</a><br /><p></p>
 <p align="center">

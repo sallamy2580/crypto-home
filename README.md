@@ -1,5 +1,6 @@
 # Crypto Home
 <p align="center">
+
   <a href="https://distracted-mestorf-55ac92.netlify.app/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
   <a href="https://distracted-mestorf-55ac92.netlify.app/"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a>
   <a href="https://distracted-mestorf-55ac92.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
